@@ -6,3 +6,12 @@ https://arxiv.org/abs/1903.10412
 
 We will share the sample images of our ShopSign dataset on this GitHub respository. 
 
+(1) Samples of the five  categories of hard images, please see this link: 
+
+https://pan.baidu.com/s/1ezXbyJrrsAxlxe4gRRwp8w
+Goolge Drive Address will be provided later. 
+
+(2) Samples of Night Images.
+
+
+(3) Samples of Complex Layout Images.
