@@ -6,8 +6,7 @@ https://arxiv.org/abs/1903.10412
 
 We will share the sample images of our ShopSign dataset on this GitHub respository. 
 
-
-<font color=#6495ED size=72>Important Update!!!</font>
+<font color=#0099ff size=28>Important Update!!!</font>
 
 ## (1) 1258 Sample Images of ShopSign.
 
