@@ -9,27 +9,28 @@ We will share the sample images of our ShopSign dataset on this GitHub resposito
 Important Update!!!
 ## (1) 1258 Sample Images of ShopSign.
 
-Descriptions                            |Ranges of Image IDs 
---------------------------------------- |-------------------
+| Descriptions | Ranges of Image IDs  |
+| ---------- | :-----------:  |
 
- Images of Horizontal Text-lines:       | 0001-0123 
+| Images of Horizontal Text-lines:       | 0001-0123 |
 
- Images of Horizontal Text-lines:       | 5000-5123   
+| Images of Horizontal Text-lines:       | 5000-5123 |
 
- Night  Images:                         | 9200-9400 
+| Night  Images:                         | 9200-9400 |
 
- Images of Multi-oriented Text-lines:   | 19000-19202 
+| Images of Multi-oriented Text-lines:   | 19000-19202 |
 
- Images of Multi-oriented Text-lines:   | 20000-20204 
+| Images of Multi-oriented Text-lines:   | 20000-20204 |
 
- Pair Images:                           | 21000-21204 
+| Pair Images:                           | 21000-21204 |
 
- Pair Images:                           | 23000-23204 
+| Pair Images:                           | 23000-23204 |
 
 
- Total Number of Selected Images:       | 1,258       
+| Total Number of Selected Images:       | 1,258       |
 
- File Size:                             | 3.2 GB      
+| File Size:                             | 3.2 GB      |
+
 
 ```
 Note: 
