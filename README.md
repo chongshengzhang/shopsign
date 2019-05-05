@@ -30,7 +30,7 @@ You may find very few inconsecutive numbers of image IDs: they are 5028, 5116, 9
 These 7 images have been reserved, since they contain the frontal faces of humans. 
 
 ```
-### The Google Drive Link will be shared here. 
+### The Google Drive Link are shared below. 
 
 1,258 Images of ShopSign: https://drive.google.com/file/d/1m9q9ap2yXaZ3mENRzMpLr3r7tujhzChQ/view?usp=sharing
 
