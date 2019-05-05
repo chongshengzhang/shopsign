@@ -17,11 +17,11 @@ Goolge Drive Address: https://drive.google.com/file/d/1tamGKgNkSuxgBfI_-ZorrrTdq
 
 README For the 1258 Selected Images of ShopSign and Their Annotations.
 
-Descriptions                          Ranges of Image IDs
-Images of Horizontal Text-lines:      0001-0123
-Images of Horizontal Text-lines:      5000-5123    
+###Descriptions                        ###Ranges of Image IDs
+*Images of Horizontal Text-lines:      0001-0123
+*Images of Horizontal Text-lines:      5000-5123    
 
-Night  Images:                        9200-9400
+*Night  Images:                        9200-9400
 
 Images of Multi-oriented Text-lines:  19000-19202
 Images of Multi-oriented Text-lines:  20000-20204
