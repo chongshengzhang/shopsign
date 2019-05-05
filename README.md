@@ -32,7 +32,15 @@ These 7 images have been reserved, since they contain the frontal faces of human
 ```
 ### The Google Drive Link will be shared here. 
 
+1,258 Images of ShopSign: https://drive.google.com/file/d/1m9q9ap2yXaZ3mENRzMpLr3r7tujhzChQ/view?usp=sharing
 
+Annotation Files:  https://drive.google.com/file/d/1D_hx2SvuB5cKgpuy4F52PMPtsrzZGLgR/view?usp=sharing
+
+One image one annotation file. 
+
+Explanation for each line in the annotation file:  
+
+The first 8 values in each annotation file are the coordinates of the quadrilateral bounding box for each text-line. The 9th value (which is 0, or 1) can be ignored.  The rest values are the corresponding texts of the text-line.
 
 ## (2) Samples of the five  categories of hard images, please see this link: 
 
