@@ -34,9 +34,9 @@ These 7 images have been reserved, since they contain the frontal faces of human
 ```
 ### The Google Drive Link are shared below. 
 
-1,258 Images of ShopSign: https://drive.google.com/file/d/1m9q9ap2yXaZ3mENRzMpLr3r7tujhzChQ/view?usp=sharing
+1,258 Images of ShopSign: 
 
-Annotation Files:  https://drive.google.com/file/d/1D_hx2SvuB5cKgpuy4F52PMPtsrzZGLgR/view?usp=sharing
+Annotation Files: 
 
 One image one annotation file. 
 
