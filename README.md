@@ -6,7 +6,9 @@ https://arxiv.org/abs/1903.10412
 
 We will share the sample images of our ShopSign dataset on this GitHub respository. 
 
-<font color=#0099ff size=28>Important Update!!!</font>
+!!!Update on 2019-05-08!!!
+
+Please kindly notice that, due to several incosistent cases between the images and the annotation files, we need to re-uplod the 1258 sample images to Google Drive.  We will do this soon.   Thanks to the users from MeiTuan. 
 
 ## (1) 1258 Sample Images of ShopSign.
 
