@@ -6,9 +6,9 @@ https://arxiv.org/abs/1903.10412
 
 We will share the sample images of our ShopSign dataset on this GitHub respository. 
 
-!!!Update on 2019-05-08!!!
+!!!Update on 2019-05-10!!!
 
-Please kindly notice that, due to several incosistent cases between the images and the annotation files, we need to re-upload the 1258 sample images to Google Drive.  We will do this soon.   Thanks to the users from MeiTuan. 
+Please kindly notice that, we have re-uploaded the 1265 sample images to Google Drive.  Thanks to the users from MeiTuan. 
 
 ## (1) 1258 Sample Images of ShopSign.
 
@@ -29,20 +29,18 @@ Please kindly notice that, due to several incosistent cases between the images a
 Note: 
 You may find very few inconsecutive numbers of image IDs: they are 5028, 5116, 9283, 9292, 19154, 21044, 21045.
 
-These 7 images have been reserved, since they contain the frontal faces of humans. 
+These 7 images are also shared; but since they contain the frontal faces of humans, you must blur them before use. 
 
+1258+7=1265
 ```
 ### The Google Drive Link are shared below. 
 
-1,258 Images of ShopSign: 
+1,265 Images of ShopSign: https://drive.google.com/file/d/1wYXPbvTS0c2d7-drniwQsKR97Mip8DTg/view?usp=sharing
 
-Annotation Files: 
-
-One image one annotation file. 
 
 Explanation for each line in the annotation file:  
 
-The first 8 values in each annotation file are the coordinates of the quadrilateral bounding box for each text-line. The 9th value (which is 0, or 1) can be ignored.  The rest values are the corresponding texts of the text-line.
+The first 8 values in each annotation file are the coordinates of the quadrilateral bounding box for each text-line (order: top left, top right, bottom right, bottom right). The 9th value (which is 0, or 1) can be ignored.  The rest values are the corresponding texts of the text-line.
 
 ## (2) Samples of the five  categories of hard images, please see this link: 
 
