@@ -40,7 +40,7 @@ These 7 images are also shared; but since they contain the frontal faces of huma
 
 Explanation for each line in the annotation file:  
 
-The first 8 values in each annotation file are the coordinates of the quadrilateral bounding box for each text-line (order: top left, top right, bottom right, bottom right). The 9th value (which is 0, or 1) can be ignored.  The rest values are the corresponding texts of the text-line.
+The first 8 values in each annotation file are the coordinates of the quadrilateral bounding box for each text-line (order: top left, top right, bottom right, bottom left). The 9th value (which is 0, or 1) can be ignored.  The rest values are the corresponding texts of the text-line.
 
 ## (2) Samples of the five  categories of hard images, please see this link: 
 
