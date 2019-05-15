@@ -6,6 +6,8 @@ https://arxiv.org/abs/1903.10412
 
 We will share the sample images of our ShopSign dataset on this GitHub respository. 
 
+Copyright:(C) This dataset belongs to Prof. Chongsheng Zhang and his research group. You can only use it for your own research purposes (industry or universities). However, you are not allowed to disseminate it or share it with other people. 
+
 !!!Update on 2019-05-10!!!
 
 Please kindly notice that, we have re-uploaded the 1265 sample images to Google Drive.  Thanks to the users from MeiTuan. 
