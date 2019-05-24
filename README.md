@@ -2,6 +2,10 @@
 The Website of Our Shop Sign Dataset (a large-scale natural scene images with Chinese texts)
 
 
+# ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views
+
+Chongsheng Zhang, Guowen Peng, Yuefeng Tao, Feifei Fu, Wei Jiang, George Almpanidis, Ke Chen
+
 https://arxiv.org/abs/1903.10412
 
 We will share the sample images of our ShopSign dataset on this GitHub respository. 
