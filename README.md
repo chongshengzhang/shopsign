@@ -1,4 +1,4 @@
-# ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views
+# ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views (Authors: Chongsheng Zhang et al., Henan University)
 The Website of Our Shop Sign Dataset (a large-scale natural scene images with Chinese texts)
 
 
