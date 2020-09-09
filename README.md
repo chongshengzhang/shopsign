@@ -1,28 +1,33 @@
-# ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views (Authors: Chongsheng Zhang et al., Henan University)
-The Website of Our Shop Sign Dataset (a large-scale natural scene images with Chinese texts)
+# Update on 2020-09-09:
+
+Note: The total size of our ShopSign dataset is about 64GB. Therefore, it is hard to upload them to Google Drive or Baidu Cloud. We will deliver the dataset through hard-drive to senior  researchers. However, the users who apply for this dataset need to buy/deliver the hard-drive to Prof.Zhang. Our contact email is: cszhang@henu.edu.cn.  Note that if the amount of requests is too many, we are sorry that we will not be able to respond to all of them, due to limited time and energy. 
+
+# Update on 2020-09-09
+
+This paper was finally accepted by IEEE Transactions on Intelligent Transportation Systems. See the uploaded paper. Paper info:
+
+https://ieeexplore.ieee.org/document/9186709
+
+# Street View Text Recognition With Deep Learning for Urban Scene Understanding in Intelligent Transportation Systems
+
+C. Zhang, W. Ding, G. Peng, F. Fu and W. Wang, "Street View Text Recognition With Deep Learning for Urban Scene Understanding in Intelligent Transportation Systems," in IEEE Transactions on Intelligent Transportation Systems, 2020. doi: 10.1109/TITS.2020.3017632.
 
 
-#### The paper info: 
+# bibtex:
 
-Chongsheng Zhang, Guowen Peng, Yuefeng Tao, Feifei Fu, Wei Jiang, George Almpanidis, Ke Chen: ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views. arXiv:1903.10412 (2019).   https://arxiv.org/abs/1903.10412
+@ARTICLE{ShopSign,
+  author={C. {Zhang} and W. {Ding} and G. {Peng} and F. {Fu} and W. {Wang}},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  title={Street View Text Recognition With Deep Learning for Urban Scene Understanding in Intelligent Transportation Systems},
+  year={2020},
+  volume={},
+  number={},
+  doi={10.1109/TITS.2020.3017632},
+  pages={1-17},
+ }
 
-Bibtex:
 
-@article{ShopSign2019,
-  author    = {Chongsheng Zhang and
-               Guowen Peng and
-               Yuefeng Tao and
-               Feifei Fu and
-               Wei Jiang and
-               George Almpanidis and
-               Ke Chen},
-  title     = {ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street
-               Views},
-  journal   = {arXiv},
-  volume    = {abs/1903.10412},
-  year      = {2019},
-  url       = {http://arxiv.org/abs/1903.10412},
-}
+
 
 
 
@@ -72,4 +77,101 @@ The first 8 values in each annotation file are the coordinates of the quadrilate
 https://pan.baidu.com/s/1ezXbyJrrsAxlxe4gRRwp8w
 
 Goolge Drive Address: https://drive.google.com/file/d/1tamGKgNkSuxgBfI_-ZorrrTdq-ep3EZ5/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------The Following was Outdated Information----------------------------------
+
+# ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views (Authors: Chongsheng Zhang et al., Henan University)
+The Website of Our Shop Sign Dataset (a large-scale natural scene images with Chinese texts)
+
+
+#### The paper info: 
+
+Chongsheng Zhang, Guowen Peng, Yuefeng Tao, Feifei Fu, Wei Jiang, George Almpanidis, Ke Chen: ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street Views. arXiv:1903.10412 (2019).   https://arxiv.org/abs/1903.10412
+
+Bibtex:
+
+@article{ShopSign2019,
+  author    = {Chongsheng Zhang and
+               Guowen Peng and
+               Yuefeng Tao and
+               Feifei Fu and
+               Wei Jiang and
+               George Almpanidis and
+               Ke Chen},
+  title     = {ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street
+               Views},
+  journal   = {arXiv},
+  volume    = {abs/1903.10412},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1903.10412},
+}
+
+
+
+
 
