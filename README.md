@@ -4,7 +4,7 @@ Note: The total size of our ShopSign dataset is about 64GB. Therefore, it is har
 
 # Update on 2020-09-09
 
-This paper was finally accepted by IEEE Transactions on Intelligent Transportation Systems. See the uploaded paper. Paper info:
+This paper was finally accepted by IEEE Transactions on Intelligent Transportation Systems. See the uploaded paper "TITS-ShopSign 09186709.pdf". Paper info:
 
 https://ieeexplore.ieee.org/document/9186709
 
@@ -16,15 +16,25 @@ C. Zhang, W. Ding, G. Peng, F. Fu and W. Wang, "Street View Text Recognition Wit
 # bibtex:
 
 @ARTICLE{ShopSign,
+
   author={C. {Zhang} and W. {Ding} and G. {Peng} and F. {Fu} and W. {Wang}},
+  
   journal={IEEE Transactions on Intelligent Transportation Systems},
+  
   title={Street View Text Recognition With Deep Learning for Urban Scene Understanding in Intelligent Transportation Systems},
+  
   year={2020},
+  
   volume={},
+  
   number={},
+  
   doi={10.1109/TITS.2020.3017632},
+  
   pages={1-17},
+  
  }
+ 
 
 
 
@@ -36,7 +46,7 @@ We share the sample images of our ShopSign dataset on this GitHub respository be
 
 Copyright:(C) This dataset belongs to Prof. Chongsheng Zhang and his research group. You can only use it for your own research purposes (industry or universities). However, you are not allowed to disseminate it or share it with other people. 
 
-!!!Latest Update on 2019-05-10!!!
+# Update on 2019-05-10!!!
 
 Please kindly notice that, we have re-uploaded the 1265 sample images to Google Drive.  Thanks to the users from MeiTuan. 
 
@@ -163,12 +173,18 @@ Bibtex:
                Wei Jiang and
                George Almpanidis and
                Ke Chen},
+               
   title     = {ShopSign: a Diverse Scene Text Dataset of Chinese Shop Signs in Street
                Views},
+               
   journal   = {arXiv},
+  
   volume    = {abs/1903.10412},
+  
   year      = {2019},
+  
   url       = {http://arxiv.org/abs/1903.10412},
+  
 }
 
 
